@@ -1,4 +1,4 @@
-# Basilisk.md Documentation
+# Documentation
 
 ## Overview
 
